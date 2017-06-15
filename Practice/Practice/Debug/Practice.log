@@ -1,0 +1,4 @@
+﻿  tower.cpp
+c:\users\v-taroem\desktop\practice\practice\tower.cpp(11): warning C4018: '<': signed/unsigned mismatch
+  Practice.vcxproj -> C:\Users\v-taroem\Desktop\Practice\Debug\Practice.exe
+  Practice.vcxproj -> C:\Users\v-taroem\Desktop\Practice\Debug\Practice.pdb (Full PDB)

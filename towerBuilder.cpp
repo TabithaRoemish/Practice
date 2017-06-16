@@ -1,4 +1,14 @@
-//kata practice space - Tabitha Roemish
+//--------------------------------------------------------
+// Tower Builder
+//	Instructions: create a method that takes in an integer
+//		nFloors and builds a tree with nFloors.
+//	Example Output with 4 nFloors:
+//		{  * ,
+//		  *** ,
+//		 ***** ,
+//		*******}
+//	Programmer: TR
+//---------------------------------------------------------
 #include<vector>
 #include<iostream>
 #include<string>

@@ -1,4 +1,9 @@
-//kata practice space - Tabitha Roemish
+//-------------------------------------------------------
+//	is Ascending Order - Kata 7
+//  Instructions: create a bool method 
+//		that checks if a vector is in ascending order
+//	Programmer: TR
+//-------------------------------------------------------
 #include<vector>
 #include<iostream>
 #include<string>
